@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishabhrv
 - 👀 I’m interested in Machine Learning & AI
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently studying Generative AI
 - 📫 Reach me out - rishabhvyasji@gmail.com
 
 <!---
